@@ -1,0 +1,5 @@
+ 2001:ABBA:CAFE:ACDA:0000.0000.0000.0000/64
+		ACDA::/64	lan1
+		ACDB::/64	lan2
+		ACDC::/64	lan3
+		ACDD::/64	lan4
